@@ -19,11 +19,7 @@
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianfreitas01&layout=compact&langs_count=7&title_color=4e1a4e&icon_color=4e1a4e&text_color=4e1a4e&bg_color=0d1117&"/>
 </div>
 
-<div> 
-  <a href="https://www.linkedin.com/in/willian-freitas01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  
-</div>
   
    ### Main skills:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -39,4 +35,14 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=PostgreSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=Flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=Dart&labelColor=0D1117&textColor=0D1117)&nbsp;
+<table align="center" border="0">
+  <tr>
+    <td>
+       <h3>🤝 contact me:</h3>
+  <a href="https://www.linkedin.com/in/willian-freitas01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   </td>
+  </tr>
+</table>
+      
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e1a4e=120&height=120&section=footer"/>
