@@ -5,7 +5,6 @@
 
 <img align="right" width="350" height="300" right="0px" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
-- Tenho 19 anos!! 
 - Atuo como Estágiario no projeto "Aceleradora Ágil" na PucRS;
 - No meu tempo vago, eu crio projetos e mando diretamente para cá;
 - Vez ou outra estou aprendendo alguma linguágem nova;
