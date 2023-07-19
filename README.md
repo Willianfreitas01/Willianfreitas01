@@ -2,21 +2,18 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e1a4e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Freitas;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<img align="right" width="350" height="300" right="0px" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
+<img align="right" width="150" height="100" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
 - Atuo como Estágiario no projeto "Aceleradora Ágil" na PucRS;
 - No meu tempo vago, eu crio projetos e mando diretamente para cá;
 - Vez ou outra estou aprendendo alguma linguágem nova;
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Willianfreitas01&bg_color=0d1117&color=4e1a4e&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div align="center">
   <a href="https://github.com/Willianfreitas01">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Willianfreitas01&show_icons=true&title_color=4e1a4e&icon_color=4e1a4e&text_color=4e1a4e&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianfreitas01&layout=compact&langs_count=7&title_color=4e1a4e&icon_color=4e1a4e&text_color=4e1a4e&bg_color=0d1117&"/>
+   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Willianfreitas01&show_icons=true&title_color=4e1a4e&icon_color=4e1a4e&text_color=4e1a4e&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willianfreitas01&layout=compact&langs_count=7&title_color=4e1a4e&icon_color=4e1a4e&text_color=4e1a4e&bg_color=0d1117&"/>
 </div>
+
 
   
   
