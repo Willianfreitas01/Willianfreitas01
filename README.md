@@ -8,6 +8,7 @@
 </br>
 
 - Diariamente estudo e atualizo meus projetos pessoais;
+</br>
 
 <div align="center">
   <a href="https://github.com/Willianfreitas01">
