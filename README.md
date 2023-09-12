@@ -5,6 +5,8 @@
 <img align="right" width="150" height="100" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
 - Com um foco maior em Back-end mas, usando quando o necessário um pouco do Front-end;
+</br>
+
 - Diariamente estudo e atualizo meus projetos pessoais;
 
 <div align="center">
