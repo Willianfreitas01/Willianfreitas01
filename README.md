@@ -4,9 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e1a4e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Freitas;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img align="right" width="150" height="100" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
-- As vezes eu jogo alguns games, tanto que esse personagem ao lado é de algum game que eu jogo =>
-- No meu tempo vago, eu crio projetos e mando diretamente para cá;
-- Vez ou outra estou aprendendo alguma linguágem nova;
+- Com um foco maior em Back-end mas, usando quando o necessário um pouco do Front-end;
+- Diariamente estudo e atualizo meus projetos pessoais;
 
 <div align="center">
   <a href="https://github.com/Willianfreitas01">
