@@ -7,7 +7,7 @@
 - Com um foco maior em Back-end mas, usando quando o necessário um pouco do Front-end;
 </br>
 
-- Diariamente estudo e atualizo meus projetos pessoais;
+- Semanalmente estudo e atualizo meus projetos pessoais;
 </br>
 
 <div align="center">
