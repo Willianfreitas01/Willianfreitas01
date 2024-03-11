@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e1a4e=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e1a4e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Freitas;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4e1a4e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Willian+Freitas;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img align="right" width="150" height="100" src="https://orig00.deviantart.net/355a/f/2018/093/2/c/talon_by_hidore-dc7msvv.gif"/>
 
 - Com um foco maior em Back-end mas, usando quando o necessário um pouco do Front-end;
