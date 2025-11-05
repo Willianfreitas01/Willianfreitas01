@@ -40,8 +40,8 @@
   </tr>
 </table>
       
+<img src="https://raw.githubusercontent.com/Willianfreitas01/Willianfreitas01/output/github-contribution-grid-snake.svg?palette=github-dark" alt="snake animation"/>
 
-  <img src="https://raw.githubusercontent.com/Willianfreitas01/Willianfreitas01/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e1a4e=120&height=120&section=footer"/>
